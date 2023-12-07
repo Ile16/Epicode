@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentazione IC</title>
+</head>
+<body>
+   <h1>Web development 1st challenge</h1> 
+   <h2>Presentazione</h2>
+<image src="../thumbnail_027EF258-92AB-48CF-AF63-A44D4C9CE731.jpg"
+style="width: 150px;"
+alt="Foto di Ilenia Coccia"/>
+<h3 style="color:blue">Chi sono?</h3>
+<p> Ciao! Mi chiamo Ilenia, ho 28 anni e vivo da qualche anno a Roma. Sono laureata in digital marketing e lavoro attualmente per una società real estate.
+    Sono una ragazza determinata e alla ricerca continua di stimoli e creatività. 
+    Da Gennaio inizierò il corso Web Development con Epicode! &#128516
+</p>
+<h3 style="color:Orange">Hobbies e Interessi</h3>
+<ul>
+    <li>Disegno</li>
+    <li>Musei</li>
+    <li>Piante</li>
+    <li>Lettura</li>
+    <li>Podcast</li>
+   <li>Serie tv</li>
+   <li>Yoga</li>
+</ul>
+<div>
+<table border="1">
+    <td><h2>Livello di studi</h2></td><td><h2>Titolo di studi</h2></td>
+    <tr><td>Specialistica</td><td>Economia Internazionale - Digital marketing and global markets</td></tr>
+    <tr><td>Triennale</td><td>Mediazione Linguistica</td></tr>
+</table>
+</div>
+
+<table border="1">
+<td><h2>Periodo</h2></td><td><h2>Esperienze lavorative</h2></td>
+<tr><td>Mar23/Dic23</td><td>Sales support</td></tr>
+<tr><td>Set22/Mar23</td><td>Tirocinio Sales support</td></tr>
+<tr><td>Apr22/Giu22</td><td>Junior marketing and communication assistant</td></tr>
+</table>
+
+<div>
+    <h2 style="color:green">Contatti</h2>
+    <ul>
+        <li>Email: ile.coc95@outlook.com</li>
+        <li>Mobile: 3756760724</li>
+    </ul>
+</div>
+</body>
+</html>
